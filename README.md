@@ -1,2 +1,2 @@
-# AdminProductsPHPCodeignaiter
-AdminProductsPHPCodeignaiter
+# AdminShop
+AdminShop
